@@ -17,31 +17,47 @@ Now onward with the projects! :)
 
 This is one of my earliest projects:
 
-To view the repo, [click here!](https://github.com/Gabriel-Floricel/Pancake-Corner)
+For more details, [click here!](https://github.com/Gabriel-Floricel/Pancake-Corner)
+
+[Press here](https://pancake-corner.netlify.app/index.html) to view the live application deploy.
+
+![pancake](https://user-images.githubusercontent.com/77454751/122210728-9dae2880-ceae-11eb-842d-33d4f702f993.JPG)
 
 ## e-Prozar
 
 Simple React project using routes, react-bootstrap and useEffect hook
 
-To view the repo, [click here!](https://github.com/Gabriel-Floricel/eProzar-React)
+For more details, [click here!](https://github.com/Gabriel-Floricel/eProzar-React)
+
+[Press here](https://eprozar-react.pages.dev/#/) to view the live application deploy.
+
+![prozar](https://user-images.githubusercontent.com/77454751/122210770-aa328100-ceae-11eb-99f7-a24a008b3533.JPG)
 
 ## Cats-API
 
 My first experimentation with making fetch calls to an API from backend server
 
-To view the repo, [click here!](https://github.com/Gabriel-Floricel/Cats-API)
+For more details, [click here!](https://github.com/Gabriel-Floricel/Cats-API)
+
+[Press here](https://cats-api.pages.dev/) to view the live application deploy.
+
+![cats](https://user-images.githubusercontent.com/77454751/122210801-b3235280-ceae-11eb-8eca-0a97eb7a292b.JPG)
 
 ## Book-Shop
 
 My first complex project using Redux
 
-To view the repo, [click here!](https://github.com/Gabriel-Floricel/Redux-Book-Shop)
+For more details, [click here!](https://github.com/Gabriel-Floricel/Redux-Book-Shop)
+
+[Press here](https://redux-book-shop.pages.dev/) to view the live application deploy.
 
 ## Shoe-Store
 
 My latest project, using a mock server to make calls, as well as implemented routing, catching errors, spinners, custom hooks.
 
-To view the repo, [click here!](https://github.com/Gabriel-Floricel/Shoe-Store)
+For more details, [click here!](https://github.com/Gabriel-Floricel/Shoe-Store)
+
+[Press here](https://shoe-store.pages.dev/) to view the live application deploy.
 
 #### Final notes:
 
