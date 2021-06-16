@@ -15,7 +15,7 @@ Now onward with the projects! :)
 
 ## The Pancake Corner
 
-This is one of my earliest projects:
+One of my earlies projects:
 
 For more details, [click here!](https://github.com/Gabriel-Floricel/Pancake-Corner)
 
@@ -35,7 +35,7 @@ For more details, [click here!](https://github.com/Gabriel-Floricel/eProzar-Reac
 
 ## Cats-API
 
-My first experimentation with making fetch calls to an API from backend server
+Here I am making fetch calls to an API from a backend server (get, post, delete).
 
 For more details, [click here!](https://github.com/Gabriel-Floricel/Cats-API)
 
@@ -45,7 +45,7 @@ For more details, [click here!](https://github.com/Gabriel-Floricel/Cats-API)
 
 ## Book-Shop
 
-My first complex project using Redux
+Virtual book store project using Redux.
 
 For more details, [click here!](https://github.com/Gabriel-Floricel/Redux-Book-Shop)
 
