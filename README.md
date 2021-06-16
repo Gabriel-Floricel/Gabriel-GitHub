@@ -51,7 +51,7 @@ For more details, [click here!](https://github.com/Gabriel-Floricel/Redux-Book-S
 
 [Press here](https://redux-book-shop.pages.dev/) to view the live application deploy.
 
-![books](https://user-images.githubusercontent.com/77454751/122210970-e6fe7800-ceae-11eb-8514-9b00dac1a14d.JPG
+![books](https://user-images.githubusercontent.com/77454751/122210970-e6fe7800-ceae-11eb-8514-9b00dac1a14d.JPG)
 
 ## Shoe-Store
 
