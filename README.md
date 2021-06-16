@@ -51,6 +51,8 @@ For more details, [click here!](https://github.com/Gabriel-Floricel/Redux-Book-S
 
 [Press here](https://redux-book-shop.pages.dev/) to view the live application deploy.
 
+![books](https://user-images.githubusercontent.com/77454751/122210970-e6fe7800-ceae-11eb-8514-9b00dac1a14d.JPG
+
 ## Shoe-Store
 
 My latest project, using a mock server to make calls, as well as implemented routing, catching errors, spinners, custom hooks.
@@ -58,6 +60,8 @@ My latest project, using a mock server to make calls, as well as implemented rou
 For more details, [click here!](https://github.com/Gabriel-Floricel/Shoe-Store)
 
 [Press here](https://shoe-store.pages.dev/) to view the live application deploy.
+
+![shoes](https://user-images.githubusercontent.com/77454751/122211015-efef4980-ceae-11eb-9e52-c9cead17c09f.JPG)
 
 #### Final notes:
 
