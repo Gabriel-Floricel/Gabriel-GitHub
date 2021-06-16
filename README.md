@@ -15,7 +15,7 @@ Now onward with the projects! :)
 
 ## The Pancake Corner
 
-One of my earlies projects:
+One of my earliest projects:
 
 For more details, [click here!](https://github.com/Gabriel-Floricel/Pancake-Corner)
 
